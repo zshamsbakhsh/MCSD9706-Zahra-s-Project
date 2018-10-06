@@ -1,6 +1,0 @@
-D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\GCDemo\bin\Debug\GCDemo.exe.config
-D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\GCDemo\bin\Debug\GCDemo.exe
-D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\GCDemo\bin\Debug\GCDemo.pdb
-D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\GCDemo\obj\Debug\GCDemo.csproj.CoreCompileInputs.cache
-D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\GCDemo\obj\Debug\GCDemo.exe
-D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\GCDemo\obj\Debug\GCDemo.pdb

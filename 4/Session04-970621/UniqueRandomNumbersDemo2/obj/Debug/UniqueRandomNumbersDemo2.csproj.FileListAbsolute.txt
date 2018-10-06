@@ -1,6 +1,0 @@
-D:\MCSD9706-Zahra's Project\4\Session04-970621\UniqueRandomNumbersDemo2\bin\Debug\UniqueRandomNumbersDemo2.exe.config
-D:\MCSD9706-Zahra's Project\4\Session04-970621\UniqueRandomNumbersDemo2\bin\Debug\UniqueRandomNumbersDemo2.exe
-D:\MCSD9706-Zahra's Project\4\Session04-970621\UniqueRandomNumbersDemo2\bin\Debug\UniqueRandomNumbersDemo2.pdb
-D:\MCSD9706-Zahra's Project\4\Session04-970621\UniqueRandomNumbersDemo2\obj\Debug\UniqueRandomNumbersDemo2.csproj.CoreCompileInputs.cache
-D:\MCSD9706-Zahra's Project\4\Session04-970621\UniqueRandomNumbersDemo2\obj\Debug\UniqueRandomNumbersDemo2.exe
-D:\MCSD9706-Zahra's Project\4\Session04-970621\UniqueRandomNumbersDemo2\obj\Debug\UniqueRandomNumbersDemo2.pdb

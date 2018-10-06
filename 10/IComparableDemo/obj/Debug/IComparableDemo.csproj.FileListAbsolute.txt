@@ -1,0 +1,7 @@
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\bin\Debug\IComparableDemo.exe.config
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\bin\Debug\IComparableDemo.exe
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\bin\Debug\IComparableDemo.pdb
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\obj\Debug\IComparableDemo.csprojResolveAssemblyReference.cache
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\obj\Debug\IComparableDemo.csproj.CoreCompileInputs.cache
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\obj\Debug\IComparableDemo.exe
+D:\MCSD9706-Zahra's Project\10\IComparableDemo\obj\Debug\IComparableDemo.pdb

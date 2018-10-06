@@ -1,0 +1,13 @@
+D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe.config
+D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe
+D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\IEnumerableDemo\bin\Debug\IEnumerableDemo.pdb
+D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\IEnumerableDemo\obj\Debug\IEnumerableDemo.csproj.CoreCompileInputs.cache
+D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\IEnumerableDemo\obj\Debug\IEnumerableDemo.exe
+D:\MCSD\Class Code 9706\MCSD-9706\Session10-970711\IEnumerableDemo\obj\Debug\IEnumerableDemo.pdb
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\obj\Debug\IEnumerableDemo.csproj.CoreCompileInputs.cache
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\obj\Debug\IEnumerableDemo.exe
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\obj\Debug\IEnumerableDemo.pdb
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe.config
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\bin\Debug\IEnumerableDemo.pdb
+D:\MCSD9706-Zahra's Project\10\IEnumerableDemo\obj\Debug\IEnumerableDemo.csprojResolveAssemblyReference.cache

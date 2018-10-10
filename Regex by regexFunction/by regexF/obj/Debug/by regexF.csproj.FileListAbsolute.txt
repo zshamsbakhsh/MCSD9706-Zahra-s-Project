@@ -1,0 +1,7 @@
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\obj\Debug\by regexF.csprojResolveAssemblyReference.cache
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\obj\Debug\by regexF.csproj.CoreCompileInputs.cache
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\bin\Debug\by regexF.exe.config
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\bin\Debug\by regexF.exe
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\bin\Debug\by regexF.pdb
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\obj\Debug\by regexF.exe
+D:\MCSD9706-Zahra's Project\Regex by regexFunction\by regexF\obj\Debug\by regexF.pdb

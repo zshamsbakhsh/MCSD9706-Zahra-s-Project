@@ -1,0 +1,7 @@
+D:\MCSD9706-Zahra's Project\RegEx\regex\bin\Debug\regex.exe.config
+D:\MCSD9706-Zahra's Project\RegEx\regex\bin\Debug\regex.exe
+D:\MCSD9706-Zahra's Project\RegEx\regex\bin\Debug\regex.pdb
+D:\MCSD9706-Zahra's Project\RegEx\regex\obj\Debug\regex.csprojResolveAssemblyReference.cache
+D:\MCSD9706-Zahra's Project\RegEx\regex\obj\Debug\regex.csproj.CoreCompileInputs.cache
+D:\MCSD9706-Zahra's Project\RegEx\regex\obj\Debug\regex.exe
+D:\MCSD9706-Zahra's Project\RegEx\regex\obj\Debug\regex.pdb
